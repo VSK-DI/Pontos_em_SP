@@ -1,0 +1,64 @@
+.container{
+    margin: 0 auto;
+    width: 960px;
+}
+body{
+    background: #fff1d6 url(img/Background.jpg);
+    line-height: 1.6;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.place{
+   background-color: #fff;
+    border-color: #ccc #999 #999 #ccc;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+.place h2{
+    border-bottom: 1px dashed #7E9f19;
+    margin: 0;
+}
+.place a{
+    color:#2c88a7;
+    font-weight: bold;
+}
+h1 a{
+    color:#7E9f19;
+    text-decoration: none;
+}
+h1 a:hover{
+    background-color:#7E9f19;
+   color: #fff;
+}
+.place img{
+    border: #7E9f19 solid 1px;
+    float: left;
+    Margin: 10px 10px 0 0;
+    padding: 2px;
+}
+.clear {
+    clear: both;
+}
+.footer{
+    font-size: 12px;
+    text-align: center;
+}
+.sidenote{
+    background-color: #fffbe4;
+    border: 1px solid #000000;
+    padding: 10px;
+    float: right;
+    width: 260px;
+}
+.sidenot h3{
+    font-size: 14px;
+    margin-top: 0;
+}
+.sidenote ol{
+    font-size: 15px;
+}
+
+.place{
+    float: left;
+    width: 660px;
+}
